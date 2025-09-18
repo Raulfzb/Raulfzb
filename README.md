@@ -1,4 +1,7 @@
 ## Hi there 👋
+### I'm Raul Fernandez
+
+*🌱I'm currently learning DAM
 
 <!--
 **Raulfzb/Raulfzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
