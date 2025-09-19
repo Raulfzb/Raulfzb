@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### I'm Raul Fernandez
 
-*🌱I'm currently learning DAM
-*🌱I'm interested in programming
+1. 🌱I'm currently learning DAM
+1. 🌱I'm interested in programming
 
 
 <!--
