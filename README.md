@@ -2,7 +2,8 @@
 ### I'm Raul Fernandez
 
 1. 🌱I'm currently learning DAM
-1. 🌱I'm interested in programming
+1. 🔭I'm interested in programming
+2. 🤔I'm learning programming
 
 
 <!--
